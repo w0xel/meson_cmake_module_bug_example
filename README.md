@@ -2,7 +2,7 @@
 
 This repository shows a minimal example showing off a CMake module bug in meson.
 
-Related bug report: https://github.com/mesonbuild/meson/issues/
+Related bug report: https://github.com/mesonbuild/meson/issues/7666
 
 ## Execute
 
